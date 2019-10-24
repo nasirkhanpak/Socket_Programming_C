@@ -32,5 +32,5 @@ Define few fields on the structure. Followings are some of structures used in th
 
 ## Conclusion
 
-This lab helped me in understanding the details about sockets, ports and socket programming over TCP in C. I tried to do error checks as much as possible in both client and server program. I think it would help to make program much more secure. Error handling is important in cases where the communication between server and client can go wrong at many places as per my understanding. For example, if the connection is not established between server and client and you are wondering where the problem is occuring. Error handling is important especially in case of buffer overflow. 
+This project helped in understanding the sockets, ports and socket programming over TCP in C. I tried to do error checks as much as possible in both client and server program. Error Checking helps in making program more secure. Error handling is important in most places. For example, if the connection is not established between server and client and you are wondering where the problem is occuring. Error handling is important especially in case of buffer overflow. This project helped in managing error handling well. 
 
