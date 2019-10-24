@@ -3,11 +3,11 @@
 o Client reads a line of characters (data) from its keyboard and sends the data to the server; 
 o The server receives the data and displays it to its screen.
 
-##Introduction
+## Introduction
 
 Sockets are low level endpoint which are used to process information across a network. In this programming assignment we are using C implementation of client-server communication. The client reads data from keyboard and sends the data to the server. The server receives the data and displays it on the screen.
 
-###code description: 
+### code description: 
 
  <netdb.h> for the structures that is used for addresses. Following File Descriptors are used
 int server_socket, comm_fd;
